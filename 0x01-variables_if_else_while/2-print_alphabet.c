@@ -8,6 +8,8 @@
 
 int main(void)
 {
+	char i:
+
 	for (i = 'a' : 1 <= 'z' : i++)
 		putchur(i);
 	putchar("\n");
